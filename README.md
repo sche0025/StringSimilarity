@@ -7,7 +7,7 @@ To calculate distance
 - editdistance
 
 #NB:
-- Please put the dictionary, misspelt, correct in the same folder of this program
+- Please put the dictionary, misspell, correct in the same folder of this program
 
 #How to run
 1. git clone the repo: git clone https://github.com/sche0025/StringSimilarity.git
