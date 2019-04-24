@@ -1,5 +1,5 @@
 # StringSimilarity
-to calculate distance
+To calculate distance
 
 #Pre-Requisite:
 - Python 3
